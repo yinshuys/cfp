@@ -77,7 +77,7 @@ This seminar (stdti & ID) is collecting original technical papers to deal with t
 ## Submissions of Papers
 
 <center>
-  The submittion site XXXX@163.com
+  The submittion site: XXX@163.com
   
   PC chair contact: XXX@scu.edu.cn
 </center>
