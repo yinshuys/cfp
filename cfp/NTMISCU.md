@@ -27,11 +27,13 @@ accept-chinese-submission: true
 # STDTI&ID COMPASS 2021
 ## Symposium Overview
 
-The Symposium focuses on Traffic driven network threat identification and intrusion detection.It provides an exchange platform for scholars in the field of network security, and can quickly understand the development status and future development direction of this field.
-
 （Seminar on Traffic driven network threat identification and intrusion detection）
 
-24 May – 28 May 2021 (virtual)
+The Symposium focuses on Traffic driven network threat identification and intrusion detection.It provides an exchange platform for scholars in the field of network security, and can quickly understand the development status and future development direction of this field.
+
+I hope all the researchers can actively participate in this symposium and bring wonderful papers.The symposium will last for three days and will be presented in the form of paper review, round table discussion and results presentation.
+
+24 May – 28 May 2022 
 
 </div>
 
