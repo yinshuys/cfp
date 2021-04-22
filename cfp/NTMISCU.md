@@ -53,22 +53,33 @@ This seminar (stdti & ID) is collecting original technical papers to deal with t
 ## Symposium Topics
 <center>
   
-* Collecting and caching for massive network traffic
+* Collecting and caching for massive network traffic.
 
-* Scalable and customized protocol restore and load restore for high-speed flow environment
+* Scalable and customized protocol restore and load restore for high-speed flow environment.
 
-* Comprehensive and effective expression of network traffic
-
+* Comprehensive and effective expression of network traffic.
+.
 * Build a network traffic characterization system that can adapt to different use scenarios and different application requirements
 
-* Solve The problem of sparse samples, small samples and limited samples of unknown samples
+* Solve The problem of sparse samples, small samples and limited samples of unknown samples.
 
-* Solve the environmental restriction in the network environment such as industrial control network, private network and complex network
+* Solve the environmental restriction in the network environment such as industrial control network, private network and complex network.
 
-* Solve the problem of fuzzy concept, interpretability and so on
+* Solve the problem of fuzzy concept, interpretability.
+
+* Solve the problem of limited data sources in scenarios of encrypted traffic, risk analysis, prediction and early warning.
+
+* Solve the problem of limited directional, controllable and operable variants of network traffic samples and characteristics.
 
 </center>
 
 
-·Solve the problem of limited data sources in scenarios of encrypted traffic, risk analysis, prediction and early warning
-·Solve the problem of limited directional, controllable and operable variants of network traffic samples and characteristics
+## Submissions of Papers
+
+<center>
+  The submittion site XXXX@163.com
+  
+  PC chair contact: XXX@scu.edu.cn
+</center>
+
+
