@@ -8,7 +8,7 @@ organizers:
     id: 2020XXXXXXY
   -
     name: 尹曙
-    id: 2020XX
+    id: 2020XXX001
 title: Seminar on Traffic driven network threat identification and intrusion detection 
 shorttitle: STDTI&ID
 only-for-homework: true
@@ -25,6 +25,9 @@ accept-chinese-submission: true
 ---
 
 # STDTI&ID COMPASS 2021
+## Symposium Overview
+
+The Symposium focuses on Traffic driven network threat identification and intrusion detection.It provides an exchange platform for scholars in the field of network security, and can quickly understand the development status and future development direction of this field.
 
 （Seminar on Traffic driven network threat identification and intrusion detection）
 
@@ -33,7 +36,7 @@ accept-chinese-submission: true
 </div>
 
 ---
-
+## Introduce
 
 Cyberspace has become the "fifth frontier" after land, ocean, sky and space. As one of the key national information infrastructures, the Internet has played an important role in politics, military, economy, transportation and other fields. At the same time, the frequency and scale of network attacks are increasing year by year. These attacks have caused huge economic losses, and even seriously threatened national security and social stability and development. Therefore, how to effectively prevent attacks from the network has become an urgent problem.
     
@@ -44,10 +47,10 @@ With the continuous development of cloud storage technology and big data mining 
 This seminar (stdti & ID) is collecting original technical papers to deal with threat identification in various network application scenarios and network topology environment, and network intrusion detection. It is expected to use more intelligent modes and methods, use artificial intelligence technology, optimize the existing detection technology, or solve the main problems of current traffic in storage management, flow, identification and other aspects The requirements include but are not limited to the following topics:
 
 
-
-
+---
+## Symposium Topics
 <center>
-
+  
 * Collecting and caching for massive network traffic
 
 * Scalable and customized protocol restore and load restore for high-speed flow environment
@@ -64,6 +67,6 @@ This seminar (stdti & ID) is collecting original technical papers to deal with t
 
 </center>
 
-5
+
 ·Solve the problem of limited data sources in scenarios of encrypted traffic, risk analysis, prediction and early warning
 ·Solve the problem of limited directional, controllable and operable variants of network traffic samples and characteristics
